@@ -31,3 +31,12 @@ nav {
     padding: 10px;
     text-align: center;
 }
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
