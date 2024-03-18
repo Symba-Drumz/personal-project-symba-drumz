@@ -11,3 +11,9 @@ document.querySelectorAll('nav a').forEach(anchor => {
         });
     });
 });
+
+document.querySelectorAll('.drum-section').forEach(section => {
+    section.addEventListener('click', function() {
+        this.classList.toggle('clicked');
+    });
+});
