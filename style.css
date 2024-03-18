@@ -62,3 +62,13 @@ section {
 section:hover {
     transform: translateY(-5px);
 }
+
+section h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.6;
+}
