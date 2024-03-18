@@ -40,3 +40,12 @@ nav li {
     display: inline;
     margin: 0 10px;
 }
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
