@@ -5,12 +5,12 @@ body, h1, h2, p {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8; /* Light gray background */
+    background-color: #f8f8f8;
     color: #333;
 }
 
 header {
-    background-color: #8B4513; /* Brown header */
+    background-color: #8B4513;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -26,7 +26,7 @@ header p {
 }
 
 nav {
-    background-color: #8B4513; /* Brown navigation */
+    background-color: #8B4513;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -44,11 +44,11 @@ nav li {
 nav a {
     color: #fff;
     text-decoration: none;
-    transition: color 0.3s ease; /* Smooth color transition */
+    transition: color 0.3s ease;
 }
 
 nav a:hover {
-    color: #ff9800; /* Orange color on hover */
+    color: #ff9800;
 }
 
 main {
@@ -58,7 +58,7 @@ main {
 section {
     margin-bottom: 40px;
     padding: 20px;
-    background-image: linear-gradient(to bottom right, #ff9800, #fb8c00); /* Vibrant gradient background */
+    background-image: linear-gradient(to bottom right, #ff9800, #fb8c00);
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
@@ -89,14 +89,14 @@ section h2 {
 }
 
 section h2 span {
-    color: #000; /* Black color */
+    color: #000; 
 }
 
 
 section p {
     font-size: 16px;
     line-height: 1.6;
-    color: #f5f5f5; /* Lighter gray text */
+    color: #f5f5f5; 
 }
 
 .drum-section.clicked .additional-info {
@@ -120,17 +120,17 @@ section p {
 .drum-details h2 {
     margin-bottom: 10px;
     font-size: 24px;
-    color: #ff9800; /* Orange heading */
+    color: #ff9800;
 }
 
 .drum-details p {
     font-size: 16px;
     line-height: 1.6;
-    color: #f5f5f5; /* Lighter gray text */
+    color: #f5f5f5; 
 }
 
 footer {
-    background-color: #8B4513; /* Brown footer */
+    background-color: #8B4513;
     color: #fff;
     padding: 10px;
     text-align: center;
