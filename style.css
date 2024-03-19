@@ -85,7 +85,7 @@ section:hover {
 section h2 {
     margin-bottom: 10px;
     font-size: 24px;
-    color: #fff; /* White heading */
+    color: #000000; /* White heading */
 }
 
 section p {
