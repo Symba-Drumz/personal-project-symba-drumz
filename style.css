@@ -87,11 +87,6 @@ section p {
     line-height: 1.6;
 }
 
-.additional-info {
-    /* display: none; */
-    margin-top: 10px;
-}
-
 .drum-section.clicked .additional-info {
     display: block;
 }
