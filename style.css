@@ -91,6 +91,31 @@ section p {
     display: block;
 }
 
+.drum-info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.drum-image {
+    margin-right: 20px;
+}
+
+.drum-details {
+    flex-grow: 1;
+}
+
+.drum-details h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.drum-details p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+
 footer {
     background-color: #333;
     color: #fff;
